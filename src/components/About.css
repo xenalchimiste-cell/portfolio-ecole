@@ -1,0 +1,18 @@
+.about {
+  background-color: var(--bg-secondary);
+}
+
+.about-content {
+  max-width: 680px;
+}
+
+.about-text p {
+  font-size: 1.0625rem;
+  color: var(--text-secondary);
+  margin-bottom: 1.25rem;
+  line-height: 1.8;
+}
+
+.about-text p:last-of-type {
+  margin-bottom: 0;
+}
